@@ -1,0 +1,1 @@
+cpp,c,bash,cloudflare,figma,git,codepen,deno,docker,github,gitlab,bitbucket,html,css,js,bootstrap,latex,linux,md,mysql,nginx,nodejs,notion,npm,ps,php,pnpm,postman,powershell,py,flask,raspberrypi,arduino,azure,sqlite,supabase,svg,debian,ubuntu,vercel,visualstudio,vscode,webflow,windows,wordpress,workers
