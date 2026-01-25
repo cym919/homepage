@@ -1,0 +1,98 @@
+[
+    {
+        "name": "YSR",
+        "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_adde9daa2bac3f9884950c8fabf7ce70~c5_300x300.jpeg",
+        "contacts": {
+            "phone": { "value": "130****0206", "link": "tel:13095180206" },
+            "mail": { "value": "226186230@qq.com", "link": "mailto:226186230@qq.com" },
+            "wechat": { "value": "Miraitowa", "link": "", "id": "wxid_2m4oicq2rn4x22" },
+            "qq": { "value": "666有桂", "link": "", "id": "226186230" },
+            "douyin": { "value": "URC_Altitude Seekers", "link": "https://www.douyin.com/user/MS4wLjABAAAAOH90bQujBh884XF6fu8yZ1xy7uN14XuCNS6a4Mx-7hVrl1_it4T8FBnUyHk9DxUH", "id": "" },
+            "bilibili": { "value": "酒依徽渊", "link": "https://space.bilibili.com/3537117074426163" }
+        }
+    },
+    {
+        "name": "MHZ",
+        "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c000-ce_owAIwi7AeCLE0Aof0A1uBlUW4sVBACino69E7B~c5_300x300.jpeg",
+        "contacts": {
+            "phone": { "value": "", "link": "tel:" },
+            "mail": { "value": "", "link": "mailto:" },
+            "wechat": { "value": "ICELAND", "link": "", "id": "wx54188mhz" },
+            "qq": { "value": "", "link": "", "id": "" },
+            "douyin": { "value": "啥实力", "link": "https://www.douyin.com/user/MS4wLjABAAAAaqosDaprJUG0eHizedbYVkhmHN2XydE3ipfL-w6GxLo4uHglRPnpUAL5BzB0Ubvl", "id": "" },
+            "bilibili": { "value": "", "link": "https://space.bilibili.com/" }
+        }
+    },
+    {
+        "name": "LHG",
+        "avatar": "https://q.qlogo.cn/headimg_dl?dst_uin=3755549096&spec=640&img_type=jpg",
+        "contacts": {
+            "phone": { "value": "", "link": "tel:" },
+            "mail": { "value": "", "link": "mailto:" },
+            "wechat": { "value": "李昊革", "link": "", "id": "wxid_7maxjahgrfqc22" },
+            "qq": { "value": "多多", "link": "", "id": "3755549096" },
+            "douyin": { "value": "", "link": "https://www.douyin.com/user/", "id": "" },
+            "bilibili": { "value": "", "link": "https://space.bilibili.com/" }
+        }
+    },
+    {
+        "name": "GSH",
+        "avatar": "https://i1.hdslb.com/bfs/face/cc0b69b0b0995f5485827a961d7e06d569929c43.jpg@128w_128h_1c_1s.webp",
+        "contacts": {
+            "phone": { "value": "", "link": "tel:" },
+            "mail": { "value": "", "link": "mailto:" },
+            "wechat": { "value": "这里一方通行", "link": "", "id": "oooo0246810" },
+            "qq": { "value": "", "link": "", "id": "" },
+            "douyin": { "value": "", "link": "", "id": "" },
+            "bilibili": { "value": "A_tomic", "link": "https://space.bilibili.com/1039685465" }
+        }
+    },
+    {
+        "name": "ZXW",
+        "avatar": "https://i1.hdslb.com/bfs/face/85caeedfaac9af6a644eee494fe414659e5ef6b2.jpg@128w_128h_1c_1s.webp",
+        "contacts": {
+            "phone": { "value": "", "link": "tel:" },
+            "mail": { "value": "", "link": "mailto:" },
+            "wechat": { "value": "Yiiu9i", "link": "", "id": "Ooioulov9" },
+            "qq": { "value": "", "link": "", "id": "" },
+            "douyin": { "value": "差1点", "link": "https://www.douyin.com/user/MS4wLjABAAAAOcuB89EhvwFACCiP5Z9zz_5ieYnGSpjKhijo1tacALc", "id": "" },
+            "bilibili": { "value": "雪下颂词", "link": "https://space.bilibili.com/3546778399935262" }
+        }
+    },
+    {
+        "name": "WYT",
+        "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c000-ce_oEAAeIEIEEwoSY4f5uFeiND5IBgtQAA2DEr9Al~c5_300x300.jpeg",
+        "contacts": {
+            "phone": { "value": "", "link": "tel:" },
+            "mail": { "value": "", "link": "mailto:" },
+            "wechat": { "value": "六柒", "link": "", "id": "" },
+            "qq": { "value": "", "link": "", "id": "" },
+            "douyin": { "value": "臭钱进我兜", "link": "https://www.douyin.com/user/MS4wLjABAAAAL1MaoQ2g7Ny5LM0Cw6_w6iRafLorpgcp7BeQAgRtkCdsp5VFmSpTSrx355UNcgJg", "id": "" },
+            "bilibili": { "value": "", "link": "https://space.bilibili.com/" }
+        }
+    },
+    {
+        "name": "LYC",
+        "avatar": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813c000-ce_oYEawTRAivKiB4BIA4jVxPAAFMSXAjQSbY7Ap~c5_300x300.jpeg",
+        "contacts": {
+            "phone": { "value": "", "link": "tel:" },
+            "mail": { "value": "", "link": "mailto:" },
+            "wechat": { "value": "", "link": "", "id": "" },
+            "qq": { "value": "", "link": "", "id": "" },
+            "douyin": { "value": "望仔", "link": "https://www.douyin.com/user/MS4wLjABAAAAbsQTLlnTYuiAHdz_HbBHA_JDsicP6vZpqdZ4qUlBZ4naUiMFF5yCruNiSQ2Dy0Tk", "id": "" },
+            "bilibili": { "value": "", "link": "https://space.bilibili.com/" }
+        }
+    },
+    {
+        "name": "【广告】你也想被挂？",
+        "avatar": "https://ts1.tc.mm.bing.net/th/id/OIP-C.rfWK_BKADkBkHzXAnTArXwHaHa",
+        "contacts": {
+            "phone": { "value": "你也想拥有一席之地？", "link": "" },
+            "mail": { "value": "如果是，请联系我：", "link": "" },
+            "wechat": { "value": "", "link": "", "id": "" },
+            "qq": { "value": "", "link": "", "id": "" },
+            "douyin": { "value": "cym919", "link": "https://www.douyin.com/user/MS4wLjABAAAADeDmKpJcJXsk8a3rZMhljc_AnGWYKqU2nz8uXNRKkcEOtyW1b0uIqN2r_1c3Vmzb", "id": "" },
+            "bilibili": { "value": "Oranglemon橙柠", "link": "https://space.bilibili.com/3546663876561512" }
+        }
+    }
+]

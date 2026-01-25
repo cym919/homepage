@@ -1,7 +1,7 @@
-console.log('%cCopyright © 2025 cym919.top',
+console.log('%cCopyright © 2026 cym919.top',
     'background-color: #0ef2c1ff; color: white; font-size: 24px; font-weight: bold; padding: 10px;'
 );
-console.log('%cPowered by Github ZYYO666/homepage (Unlicense)',
+console.log('%cPowered by Github ZYYO666/homepage (No License)',
     'background-color: #0095ffff; color: white; font-size: 14px; font-weight: bold; padding: 10px;'
 );
 console.log('%c   /\\_/\\', 'color: #8B4513; font-size: 20px;');
