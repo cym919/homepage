@@ -50,7 +50,7 @@ v1.0.0 (2025.12.14)
 📌 备注
 
 - 页面图标均为SVG，可自行替换。
-- - 替换 SVG 时需去除宽高信息和fill 信息，才能正常使用。
+- 替换 SVG 时需去除宽高信息和fill 信息，才能正常使用。
 
 > homepage 原始项目：[ZYYO666/homepage](https://github.com/ZYYO666/homepage)
 

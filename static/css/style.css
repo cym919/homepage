@@ -9,14 +9,14 @@
 @font-face {
     font-family: "b";
 
-    src: url(../fonts/Ubuntu-Regular.ttf);
+    src: url(https://cym919.s3.bitiful.net/homepage/Ubuntu-Regular.ttf);
     font-display: swap;
 }
 
 @font-face {
     font-family: "title";
     /*英文字体*/
-    src: url(../fonts/Pacifico-Regular.ttf);
+    src: url(https://cym919.s3.bitiful.net/homepage/Pacifico-Regular.ttf);
     font-display: swap;
 }
 
@@ -496,37 +496,20 @@ body {
     background-color: var(--item_bg_color);
     border-radius: 8px;
     padding: 15px;
-    height: 95px;
-    width: calc(25% - 15px);
-    backdrop-filter: blur(var(--card_filter));-webkit-backdrop-filter: blur(var(--card_filter));
-    -webkit-backdrop-filter: blur(var(--card_filter));-webkit-backdrop-filter: blur(var(--card_filter));
-    transition: opacity 0.3s ease, background-color 0.3s ease, border 0.3s ease, transform 0.2s ease;
-
-
-}
-
-.projectItem {
-    display: flex;
-    background-color: var(--item_bg_color);
-    border-radius: 8px;
-    padding: 15px;
     height: 100px;
     width: calc(25% - 15px);
-    backdrop-filter: blur(var(--card_filter));-webkit-backdrop-filter: blur(var(--card_filter));
+    backdrop-filter: blur(var(--card_filter));
+    -webkit-backdrop-filter: blur(var(--card_filter));
     transition: opacity 0.5s ease, background-color 0.2s ease, border 0.2s ease, transform 0.3s ease;
-
 }
-
 
 .projectItem:hover {
     box-shadow: 0 8px 16px -4px #2c2d300c;
     transform: translateY(-2px);
-
 }
 
 .projectItem.pressed {
     transform: scale(0.9);
-    /* 缩小到原来的0.9倍 */
     background-color: var(--item_hover_color);
 }
 
@@ -552,12 +535,10 @@ body {
     color: var(--item_left_text_color);
 }
 
-
 .projectItemLeft h1 {
     font-weight: normal;
     font-size: 16px;
     margin: 0px;
-
     transition: font-size 0.4s ease;
     color: var(--item_left_title_color);
 }
@@ -567,7 +548,6 @@ body {
     height: 100%;
     width: 80%;
 }
-
 
 .projectItemRight {
     overflow: hidden;
@@ -580,10 +560,42 @@ body {
 }
 
 .projectItemRight img {
-
     height: 39px;
     width: 39px;
+}
 
+.portfolioButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: var(--item_bg_color);
+    border-radius: 8px;
+    backdrop-filter: blur(var(--card_filter));
+    -webkit-backdrop-filter: blur(var(--card_filter));
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--item_left_title_color);
+    transition: opacity 0.5s ease, background-color 0.2s ease, border 0.2s ease, transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
+}
+
+.portfolioButton:hover {
+    box-shadow: 0 8px 16px -4px #2c2d300c;
+    transform: translateY(-2px);
+    background: var(--item_hover_color);
+}
+
+.portfolioButton:active {
+    transform: scale(0.98);
+}
+
+@media (max-width: 800px) {
+    .portfolioButton {
+        font-size: 18px;
+        height: 80px;
+    }
 }
 
 .skill {
@@ -625,47 +637,14 @@ footer {
     .a {
         width: calc(50% - 20px);
     }
-.projectItem{
-    margin: 10px;
-}
-    .b {
-
-        width: calc(50% - 20px);
-
-
+    .projectItem {
+        margin: 10px;
     }
 }
 
 @media (max-width: 800px) {
     .cym919-left {
         display: none;
-    }
-
-    .a .projectItemRight {
-        display: none;
-
-    }
-
-    .a .projectItemRight img {
-        display: none;
-
-    }
-
-    .a .projectItemLeft {
-        width: 100%;
-    }
-
-    .a {
-
-        width: calc(50% - 18px);
-  margin: 9px;
-
-    }
-
-    .b {
-        height: 110px;
-        margin: 8px 15px;
-        width: calc(100% - 30px);
     }
 
 
@@ -692,22 +671,22 @@ footer {
      margin-top: 4vw;
 
 }
-.projectItem{
-    padding: 10px;
-}
-    .projectItemLeft p {
-        font-size: 13px;
+
+    .a .projectItemRight {
+        display: none;
     }
 
-    .projectItemLeft h1 {
-
-        font-size: 18px;
+    .a .projectItemRight img {
+        display: none;
     }
 
-    .projectItem:hover h1 {
+    .a .projectItemLeft {
+        width: 100%;
+    }
 
-        font-size: 20px;
-
+    .a {
+        width: calc(50% - 18px);
+        margin: 9px;
     }
 
     .skill #skillWap {
